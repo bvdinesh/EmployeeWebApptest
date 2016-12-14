@@ -256,9 +256,6 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="ApplicationInsights.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="Grid.mvc.readme" />
     <None Include="Properties\PublishProfiles\Custom Files.pubxml" />
     <None Include="Properties\PublishProfiles\SampleWebAppDemo201614-int - Web Deploy.pubxml" />
